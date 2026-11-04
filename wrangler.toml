@@ -1,4 +1,4 @@
-name = "portfolio-backend"
+name = "portfolio-backened"
 compatibility_date = "2024-09-01"
 main = "functions/api/contact.js"
 account_id = "<YOUR_ACCOUNT_ID>"
