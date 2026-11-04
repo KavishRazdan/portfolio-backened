@@ -1,0 +1,66 @@
+
+--- 2026-11-04T14:40:48.437Z debug
+🪵  Writing logs to "/Users/mdkavish/Desktop/portfolio 1/portfolio-backend/.wrangler/logs/wrangler-2026-11-04_14-40-48_240.log"
+---
+
+--- 2026-11-04T14:40:48.437Z debug
+.env file not found at "/Users/mdkavish/Desktop/portfolio 1/portfolio-backend/.env.local". Continuing... For more details, refer to https://developers.cloudflare.com/workers/wrangler/system-environment-variables/
+---
+
+--- 2026-11-04T14:40:48.523Z log
+
+ ⛅️ wrangler 4.157.0
+────────────────────
+---
+
+--- 2026-11-04T14:40:48.540Z debug
+Running autoconfig detection in /Users/mdkavish/Desktop/portfolio 1/portfolio-backend...
+---
+
+--- 2026-11-04T14:40:48.541Z debug
+Metrics dispatcher: Posting data {"deviceId":"80a6591d-1f49-40e9-b420-2c63a483d7b0","event":"wrangler command started","timestamp":1793803248541,"properties":{"amplitude_session_id":1793803248530,"amplitude_event_id":0,"wranglerVersion":"4.157.0","wranglerMajorVersion":4,"wranglerMinorVersion":157,"wranglerPatchVersion":0,"osPlatform":"Mac OS","osVersion":"Darwin Kernel Version 25.6.0: Fri Jul 31 19:17:12 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8103","nodeVersion":26,"packageManager":"npm","isFirstUsage":false,"configFileType":"toml","isCI":false,"isPagesCI":false,"isWorkersCI":false,"isInteractive":true,"hasAssets":false,"agent":"antigravity","argsUsed":[],"argsCombination":"","sanitizedCommand":"deploy","sanitizedArgs":{"path":null},"currentAgentSkillsInstalled":null}}
+---
+
+--- 2026-11-04T14:40:48.544Z debug
+Metrics dispatcher: Posting data {"deviceId":"80a6591d-1f49-40e9-b420-2c63a483d7b0","event":"autoconfig_process_started","timestamp":1793803248544,"properties":{"amplitude_session_id":1793803248540,"amplitude_event_id":0,"wranglerVersion":"4.157.0","wranglerMajorVersion":4,"wranglerMinorVersion":157,"wranglerPatchVersion":0,"osPlatform":"Mac OS","osVersion":"Darwin Kernel Version 25.6.0: Fri Jul 31 19:17:12 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8103","nodeVersion":26,"packageManager":"npm","isFirstUsage":false,"configFileType":"none","isCI":false,"isPagesCI":false,"isWorkersCI":false,"isInteractive":true,"hasAssets":false,"agent":"antigravity","category":"Workers","os":"darwin:arm64","autoConfigId":"f3207d6f-6386-4282-8f56-d10aa456925f","command":"wrangler deploy","dryRun":false,"currentAgentSkillsInstalled":null}}
+---
+
+--- 2026-11-04T14:40:48.545Z debug
+Metrics dispatcher: Posting data {"deviceId":"80a6591d-1f49-40e9-b420-2c63a483d7b0","event":"autoconfig_detection_started","timestamp":1793803248545,"properties":{"amplitude_session_id":1793803248540,"amplitude_event_id":0,"wranglerVersion":"4.157.0","wranglerMajorVersion":4,"wranglerMinorVersion":157,"wranglerPatchVersion":0,"osPlatform":"Mac OS","osVersion":"Darwin Kernel Version 25.6.0: Fri Jul 31 19:17:12 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8103","nodeVersion":26,"packageManager":"npm","isFirstUsage":false,"configFileType":"none","isCI":false,"isPagesCI":false,"isWorkersCI":false,"isInteractive":true,"hasAssets":false,"agent":"antigravity","category":"Workers","os":"darwin:arm64","autoConfigId":"f3207d6f-6386-4282-8f56-d10aa456925f","command":"wrangler deploy","currentAgentSkillsInstalled":null}}
+---
+
+--- 2026-11-04T14:40:48.547Z debug
+Metrics dispatcher: Posting data {"deviceId":"80a6591d-1f49-40e9-b420-2c63a483d7b0","event":"autoconfig_detection_completed","timestamp":1793803248547,"properties":{"amplitude_session_id":1793803248540,"amplitude_event_id":0,"wranglerVersion":"4.157.0","wranglerMajorVersion":4,"wranglerMinorVersion":157,"wranglerPatchVersion":0,"osPlatform":"Mac OS","osVersion":"Darwin Kernel Version 25.6.0: Fri Jul 31 19:17:12 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8103","nodeVersion":26,"packageManager":"npm","isFirstUsage":false,"configFileType":"none","isCI":false,"isPagesCI":false,"isWorkersCI":false,"isInteractive":true,"hasAssets":false,"agent":"antigravity","category":"Workers","os":"darwin:arm64","autoConfigId":"f3207d6f-6386-4282-8f56-d10aa456925f","configured":true,"success":true,"currentAgentSkillsInstalled":null}}
+---
+
+--- 2026-11-04T14:40:48.549Z debug
+Metrics dispatcher: Posting data {"deviceId":"80a6591d-1f49-40e9-b420-2c63a483d7b0","event":"autoconfig_process_ended","timestamp":1793803248549,"properties":{"amplitude_session_id":1793803248545,"amplitude_event_id":0,"wranglerVersion":"4.157.0","wranglerMajorVersion":4,"wranglerMinorVersion":157,"wranglerPatchVersion":0,"osPlatform":"Mac OS","osVersion":"Darwin Kernel Version 25.6.0: Fri Jul 31 19:17:12 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8103","nodeVersion":26,"packageManager":"npm","isFirstUsage":false,"configFileType":"none","isCI":false,"isPagesCI":false,"isWorkersCI":false,"isInteractive":true,"hasAssets":false,"agent":"antigravity","category":"Workers","os":"darwin:arm64","autoConfigId":"f3207d6f-6386-4282-8f56-d10aa456925f","command":"wrangler deploy","dryRun":false,"success":true,"currentAgentSkillsInstalled":null}}
+---
+
+--- 2026-11-04T14:40:48.550Z debug
+Metrics dispatcher: Failed to send request: fetch failed
+---
+
+--- 2026-11-04T14:40:48.550Z debug
+Metrics dispatcher: Failed to send request: fetch failed
+---
+
+--- 2026-11-04T14:40:48.551Z debug
+Metrics dispatcher: Failed to send request: fetch failed
+---
+
+--- 2026-11-04T14:40:48.551Z debug
+Metrics dispatcher: Failed to send request: fetch failed
+---
+
+--- 2026-11-04T14:40:48.556Z debug
+Metrics dispatcher: Failed to send request: fetch failed
+---
+
+--- 2026-11-04T14:40:48.593Z log
+Attempting to login via OAuth...
+---
+
+--- 2026-11-04T14:40:48.597Z log
+Opening a link in your default browser: https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=k2.read%20k2.write%20account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20ai%3Awrite%20ai-search%3Awrite%20ai-search%3Arun%20agent-memory%3Awrite%20queues%3Awrite%20pipelines%3Awrite%20secrets_store%3Awrite%20artifacts%3Awrite%20flagship%3Awrite%20containers%3Awrite%20cloudchamber%3Awrite%20connectivity%3Aadmin%20email_routing%3Awrite%20email_sending%3Awrite%20browser%3Awrite%20challenge-widgets.write%20offline_access&state=Jb8ercaHp.KsfeJp~q_-sDl89cJwmamk&code_challenge=X9EllYWzGtUdzyA9oAdFsPmnbdm5SjyFg3uGqwjY6R0&code_challenge_method=S256
+---
