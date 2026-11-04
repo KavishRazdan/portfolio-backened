@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "functions/api/contact.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "publish": "wrangler publish"
+  },
+  "dependencies": {
+    "resend": "^0.1.2"
+  },
+  "devDependencies": {
+    "wrangler": "^4.157.0"
+  }
+}
