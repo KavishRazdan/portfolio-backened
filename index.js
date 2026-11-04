@@ -9,6 +9,7 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // Middleware
+// comment
 app.use(cors()); // allow any origin (adjust for production)
 app.use(express.json()); // parse JSON bodies
 
