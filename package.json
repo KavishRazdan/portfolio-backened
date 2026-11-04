@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "wrangler dev",
     "build": "wrangler build",
-    "publish": "wrangler publish"
+    "publish": "wrangler deploy"
   },
   "dependencies": {
     "resend": "^2.0.0"

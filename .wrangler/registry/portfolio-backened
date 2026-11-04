@@ -1,0 +1,6 @@
+{
+  "debugPortAddress": "127.0.0.1:59151",
+  "defaultEntrypointService": "core:user:portfolio-backened",
+  "userWorkerService": "core:user:portfolio-backened",
+  "instanceId": "ebcaf0e4-ab4e-47cc-a137-9a0ca2345382"
+}

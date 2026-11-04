@@ -1,0 +1,94 @@
+
+--- 2026-11-04T14:35:03.742Z debug
+🪵  Writing logs to "/Users/mdkavish/Desktop/portfolio 1/portfolio-backend/.wrangler/logs/wrangler-2026-11-04_14-35-03_550.log"
+---
+
+--- 2026-11-04T14:35:03.742Z debug
+.env file not found at "/Users/mdkavish/Desktop/portfolio 1/portfolio-backend/.env.local". Continuing... For more details, refer to https://developers.cloudflare.com/workers/wrangler/system-environment-variables/
+---
+
+--- 2026-11-04T14:35:03.833Z log
+
+ ⛅️ wrangler 4.157.0
+────────────────────
+---
+
+--- 2026-11-04T14:35:03.847Z debug
+setting config
+---
+
+--- 2026-11-04T14:35:03.847Z debug
+Updating config... undefined undefined
+---
+
+--- 2026-11-04T14:35:03.853Z debug
+Metrics dispatcher: Posting data {"deviceId":"80a6591d-1f49-40e9-b420-2c63a483d7b0","event":"wrangler command started","timestamp":1793802903853,"properties":{"amplitude_session_id":1793802903834,"amplitude_event_id":0,"wranglerVersion":"4.157.0","wranglerMajorVersion":4,"wranglerMinorVersion":157,"wranglerPatchVersion":0,"osPlatform":"Mac OS","osVersion":"Darwin Kernel Version 25.6.0: Fri Jul 31 19:17:12 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8103","nodeVersion":26,"packageManager":"npm","isFirstUsage":false,"configFileType":"none","isCI":false,"isPagesCI":false,"isWorkersCI":false,"isInteractive":true,"hasAssets":false,"agent":"antigravity","argsUsed":["local"],"argsCombination":"local","sanitizedCommand":"dev","sanitizedArgs":{"local":true},"currentAgentSkillsInstalled":null}}
+---
+
+--- 2026-11-04T14:35:03.865Z debug
+Metrics dispatcher: Failed to send request: fetch failed
+---
+
+--- 2026-11-04T14:35:03.911Z debug
+local dev variables file not found at ".dev.vars". Continuing... For more details, refer to https://developers.cloudflare.com/workers/wrangler/system-environment-variables/
+---
+
+--- 2026-11-04T14:35:03.912Z log
+Using secrets defined in .env
+---
+
+--- 2026-11-04T14:35:03.912Z debug
+.env file not found at "/Users/mdkavish/Desktop/portfolio 1/portfolio-backend/.env.local". Continuing... For more details, refer to https://developers.cloudflare.com/workers/wrangler/system-environment-variables/
+---
+
+--- 2026-11-04T14:35:03.913Z log
+Your Worker has access to the following bindings:
+---
+
+--- 2026-11-04T14:35:03.913Z log
+Binding                              Resource                  Mode
+---
+
+--- 2026-11-04T14:35:03.913Z log
+env.RESEND_FROM ("(hidden)")         Environment Variable      local
+---
+
+--- 2026-11-04T14:35:03.913Z log
+env.PORT ("(hidden)")                Environment Variable      local
+---
+
+--- 2026-11-04T14:35:03.913Z log
+env.RESEND_API_KEY ("(hidden)")      Environment Variable      local
+---
+
+--- 2026-11-04T14:35:03.913Z log
+
+---
+
+--- 2026-11-04T14:35:04.210Z debug
+RemoteRuntimeController teardown beginning...
+---
+
+--- 2026-11-04T14:35:04.210Z debug
+RemoteRuntimeController teardown complete
+---
+
+--- 2026-11-04T14:35:04.213Z log
+⎔ Starting local server...
+---
+
+--- 2026-11-04T14:35:22.269Z debug
+RemoteRuntimeController teardown beginning...
+---
+
+--- 2026-11-04T14:35:22.270Z debug
+RemoteRuntimeController teardown complete
+---
+
+--- 2026-11-04T14:35:22.272Z log
+⎔ Reloading local server...
+---
+
+--- 2026-11-04T14:35:22.630Z log
+⎔ Local server updated and ready
+---
