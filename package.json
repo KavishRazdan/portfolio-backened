@@ -3,9 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "wrangler dev",
-    "build": "wrangler build",
-    "publish": "wrangler deploy"
+    "dev": "WRANGLER_HOME=.wrangler wrangler dev",
+    "build": "WRANGLER_HOME=.wrangler wrangler build",
+    "publish": "WRANGLER_HOME=.wrangler wrangler deploy"
   },
   "dependencies": {
     "resend": "^2.0.0"
